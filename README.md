@@ -1,7 +1,7 @@
 # 👋 Hello world! I'm Solange!
 
 Welcome to my GitHub profile.  
-I am a Front-end Developer with a background in Multimedia Production. Currently, I'm finishing my postgraduate studies in Software Engineering (expected completion: April 2025) at the USP/Esalq.
+I am a Front-end Developer with a background in Multimedia Production. Currently, I'm finishing my postgraduate studies in Software Engineering (expected completion: Set/2025) at the USP/Esalq.
 
 🔭 I’m currently working on building web apps using React.<br>👨🏼‍💻 working as a front-end developer since 2018<br>🌱 I’m currently learning Python 🐍.<br>😄 Pronouns: she/her<br>
 
